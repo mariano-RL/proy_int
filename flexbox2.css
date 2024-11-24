@@ -1,0 +1,41 @@
+#contenedor{
+	
+	
+	display: flex;
+    flex-direction:row;
+    text-align: center;
+    
+    
+	}
+
+#rojo{
+    background-color:red;
+	
+    
+	
+    
+}
+
+#azul{
+	
+    background-color: blue;
+    margin-left: 190px;
+	
+}
+
+#verde{
+	
+    background-color: green;
+	margin-left: 190px;
+	
+}
+#verde2{
+	
+    background-color: green;
+	margin-left: 190px;
+	
+}
+
+#cont1{margin-left: 30px;}
+#cont2{margin-left: 30px;}
+
